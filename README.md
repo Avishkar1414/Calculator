@@ -6,12 +6,12 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This c
 
 ![image alt](https://github.com/Avishkar1414/Calculator/blob/6dd29f6324a408bf3dbf2a9b011e32fe46de4c9e/screenshot.png)
 
-Features
-✅ Basic arithmetic operations (+, -, ×, ÷)
-✅ Responsive design for all screen sizes
-✅ Interactive button animations
-✅ Clear and delete functionality
-✅ User-friendly interface
+Features=>
+Basic arithmetic operations (+, -, ×, ÷)
+Responsive design for all screen sizes
+Interactive button animations
+Clear and delete functionality
+User-friendly interface
 
 Tech Stack
 HTML – Structure of the calculator
